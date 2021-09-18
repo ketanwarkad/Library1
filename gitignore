@@ -1,0 +1,6 @@
+Book1/__pycache__/*
+Book1/views/__pycache__/*
+Library1/__pycache__/*
+subscribe/__pycache__/*
+subscribe/migrations/__pycache__/
+Book1/migrations/__pycache__/*
